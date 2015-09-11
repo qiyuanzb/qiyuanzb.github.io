@@ -1,6 +1,4 @@
 /* Write your styles */
-
-
 body{
 }
 .content{
@@ -17,11 +15,14 @@ body{
     padding-top: 6rem;
 }
 .footer{
-    margin-top: 8rem;
-    height: 7rem;
+    height:7rem;
     line-height: 7rem;
+    margin-top:8rem;
 }
 
+@media screen and (max-width: 414px) {
+    .update{
+        padding: 6rem 3rem 0 3rem;
+    }
 
-
-
+}
