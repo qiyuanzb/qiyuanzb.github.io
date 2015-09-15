@@ -1,0 +1,28 @@
+/* Write your styles */
+body{
+}
+.content{
+    margin-top: 9rem;
+}
+.logo{
+    margin-bottom: 5rem;
+}
+.code{
+    color:#DCAE64;
+}
+.update{
+    font-size: 2rem;
+    padding-top: 6rem;
+}
+.footer{
+    height:7rem;
+    line-height: 7rem;
+    margin-top:8rem;
+}
+
+@media screen and (max-width: 414px) {
+    .update{
+        padding: 6rem 3rem 0 3rem;
+    }
+
+}
