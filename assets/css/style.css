@@ -1,0 +1,23 @@
+/* Write your styles */
+body{
+    font-size: 14px;
+}
+.content{
+    margin-top: 90px;
+    text-align: center;
+}
+.logo{
+    margin-bottom: 50px;
+}
+.code{
+    color:#DCAE64;
+}
+.update{
+    font-size: 20px;
+    padding-top: 60px;
+}
+.footer{
+    height:70px;
+    line-height: 70px;
+    margin-top:80px;
+}
